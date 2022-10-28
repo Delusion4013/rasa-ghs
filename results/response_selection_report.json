@@ -1,0 +1,1112 @@
+{
+  "career_encyclopedia/id_2022101203276588": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 14,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276200": {
+    "precision": 1.0,
+    "recall": 0.9545454545454546,
+    "f1-score": 0.9767441860465117,
+    "support": 22,
+    "confused_with": {
+      "career_laws/id_2022101203276232": 1
+    }
+  },
+  "job_hunting_info/id_2022102103539858": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 28,
+    "confused_with": {}
+  },
+  "career_laws/id_2022100903218545": {
+    "precision": 1.0,
+    "recall": 0.7142857142857143,
+    "f1-score": 0.8333333333333333,
+    "support": 7,
+    "confused_with": {
+      "career_laws/id_2022101203276210": 2
+    }
+  },
+  "job_hunting_skill/id_2022102103539886": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 38,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539844": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539945": {
+    "precision": 0.9210526315789473,
+    "recall": 1.0,
+    "f1-score": 0.958904109589041,
+    "support": 35,
+    "confused_with": {}
+  },
+  "job_hunting_info/id_2022102103539852": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 27,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276247": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 19,
+    "confused_with": {}
+  },
+  "career_laws/id_2022100903219460": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276523": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 23,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276513": {
+    "precision": 1.0,
+    "recall": 0.9523809523809523,
+    "f1-score": 0.975609756097561,
+    "support": 21,
+    "confused_with": {
+      "career_encyclopedia/id_2022101203276601": 1
+    }
+  },
+  "direction_select/id_2022102103539950": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 36,
+    "confused_with": {}
+  },
+  "psychological_distress/id_2022102103539895": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 30,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276216": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 17,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276601": {
+    "precision": 0.9705882352941176,
+    "recall": 1.0,
+    "f1-score": 0.9850746268656716,
+    "support": 33,
+    "confused_with": {}
+  },
+  "job_hunting_skill/id_2022102103539929": {
+    "precision": 0.9090909090909091,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.8695652173913043,
+    "support": 12,
+    "confused_with": {
+      "other_faq/id_2022101203277070": 2
+    }
+  },
+  "other_faq/id_2022101203276564": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539874": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 17,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276542": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 26,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276574": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539868": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34,
+    "confused_with": {}
+  },
+  "other_faq/id_2022101403347834": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 35,
+    "confused_with": {}
+  },
+  "job_hunting_info/id_2022102103539919": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 37,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539947": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 36,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276558": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 22,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276218": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 22,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276538": {
+    "precision": 0.95,
+    "recall": 1.0,
+    "f1-score": 0.9743589743589743,
+    "support": 19,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022102103539952": {
+    "precision": 1.0,
+    "recall": 0.9615384615384616,
+    "f1-score": 0.9803921568627451,
+    "support": 26,
+    "confused_with": {
+      "career_encyclopedia/id_2022102103539931": 1
+    }
+  },
+  "job_hunting_skill/id_2022102103539850": {
+    "precision": 1.0,
+    "recall": 0.9629629629629629,
+    "f1-score": 0.9811320754716981,
+    "support": 27,
+    "confused_with": {
+      "career_laws/id_2022102103539862": 1
+    }
+  },
+  "direction_select/id_2022101203276568": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 16,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276570": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 19,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276519": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 24,
+    "confused_with": {}
+  },
+  "job_hunting_skill/id_2022102103539939": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 48,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539927": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 16,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276544": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539842": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 15,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276243": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 13,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276536": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276517": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 32,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276534": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 37,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539913": {
+    "precision": 0.7142857142857143,
+    "recall": 1.0,
+    "f1-score": 0.8333333333333333,
+    "support": 5,
+    "confused_with": {}
+  },
+  "other_faq/id_2022101203277070": {
+    "precision": 0.9830508474576272,
+    "recall": 0.9914529914529915,
+    "f1-score": 0.9872340425531915,
+    "support": 117,
+    "confused_with": {
+      "job_hunting_skill/id_2022102103539929": 1
+    }
+  },
+  "career_encyclopedia/id_2022101203276501": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276503": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 25,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276235": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 27,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276224": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 41,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539888": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 14,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276507": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 86,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276509": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 48,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539964": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 9,
+    "confused_with": {
+      "direction_select/id_2022102103539913": 2,
+      "career_laws/id_2022102103539882": 1
+    }
+  },
+  "psychological_distress/id_2022102103539960": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 46,
+    "confused_with": {}
+  },
+  "job_hunting_skill/id_2022102103539856": {
+    "precision": 1.0,
+    "recall": 0.9090909090909091,
+    "f1-score": 0.9523809523809523,
+    "support": 11,
+    "confused_with": {
+      "job_hunting_skill/id_2022101203276972": 1
+    }
+  },
+  "career_encyclopedia/id_2022101203276566": {
+    "precision": 0.96875,
+    "recall": 1.0,
+    "f1-score": 0.9841269841269841,
+    "support": 31,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276578": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 50,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276576": {
+    "precision": 1.0,
+    "recall": 0.9642857142857143,
+    "f1-score": 0.9818181818181818,
+    "support": 28,
+    "confused_with": {
+      "career_encyclopedia/id_2022101203276590": 1
+    }
+  },
+  "career_encyclopedia/id_2022101203276597": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 17,
+    "confused_with": {}
+  },
+  "psychological_distress/id_2022101203277354": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 26,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276560": {
+    "precision": 1.0,
+    "recall": 0.95,
+    "f1-score": 0.9743589743589743,
+    "support": 20,
+    "confused_with": {
+      "career_encyclopedia/id_2022101203276538": 1
+    }
+  },
+  "job_hunting_skill/id_2022102103539958": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 43,
+    "confused_with": {}
+  },
+  "psychological_distress/id_2022101203277317": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 26,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276206": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 24,
+    "confused_with": {}
+  },
+  "other_faq/id_2022101703413162": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 13,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276580": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 30,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022102103539897": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 93,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539893": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 48,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539907": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 43,
+    "confused_with": {}
+  },
+  "job_hunting_info/id_2022102103539935": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 29,
+    "confused_with": {}
+  },
+  "other_faq/id_2022101203276530": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 15,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539866": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276527": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 124,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276226": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276592": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 28,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539968": {
+    "precision": 1.0,
+    "recall": 0.9666666666666667,
+    "f1-score": 0.983050847457627,
+    "support": 30,
+    "confused_with": {
+      "career_laws/id_2022102103539846": 1
+    }
+  },
+  "psychological_distress/id_2022101203277331": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 52,
+    "confused_with": {}
+  },
+  "job_hunting_skill/id_2022102103539941": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 31,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539846": {
+    "precision": 0.9411764705882353,
+    "recall": 1.0,
+    "f1-score": 0.9696969696969697,
+    "support": 16,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276521": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 36,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022102103539943": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276515": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 23,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276228": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9,
+    "confused_with": {}
+  },
+  "other_faq/id_2022101203276556": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 35,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276232": {
+    "precision": 0.9705882352941176,
+    "recall": 1.0,
+    "f1-score": 0.9850746268656716,
+    "support": 33,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539933": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 16,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539962": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 24,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276590": {
+    "precision": 0.9642857142857143,
+    "recall": 1.0,
+    "f1-score": 0.9818181818181818,
+    "support": 27,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276582": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 17,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022102103539901": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 15,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539899": {
+    "precision": 1.0,
+    "recall": 0.7692307692307693,
+    "f1-score": 0.8695652173913044,
+    "support": 13,
+    "confused_with": {
+      "career_laws/id_2022102103539945": 3
+    }
+  },
+  "career_encyclopedia/id_2022101203276586": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 17,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276505": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 32,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276239": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 23,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022102103539923": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 38,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276214": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 19,
+    "confused_with": {}
+  },
+  "psychological_distress/id_2022102103539891": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 60,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539880": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 24,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539854": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 29,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276584": {
+    "precision": 1.0,
+    "recall": 0.9655172413793104,
+    "f1-score": 0.9824561403508771,
+    "support": 29,
+    "confused_with": {
+      "career_encyclopedia/id_2022101203276566": 1
+    }
+  },
+  "career_laws/id_2022101203276222": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 24,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539921": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 24,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276562": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276511": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 93,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276540": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276599": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276554": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 24,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539925": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 39,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276237": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276241": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 17,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539860": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 42,
+    "confused_with": {}
+  },
+  "job_hunting_info/id_2022102103539915": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539882": {
+    "precision": 0.95,
+    "recall": 1.0,
+    "f1-score": 0.9743589743589743,
+    "support": 19,
+    "confused_with": {}
+  },
+  "psychological_distress/id_2022101203277273": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276245": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 12,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276572": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18,
+    "confused_with": {}
+  },
+  "job_hunting_skill/id_2022102103539911": {
+    "precision": 1.0,
+    "recall": 0.9285714285714286,
+    "f1-score": 0.962962962962963,
+    "support": 14,
+    "confused_with": {
+      "job_hunting_skill/id_2022101203276972": 1
+    }
+  },
+  "job_hunting_info/id_2022102103539876": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 23,
+    "confused_with": {}
+  },
+  "job_hunting_skill/id_2022101203276972": {
+    "precision": 0.9803921568627451,
+    "recall": 1.0,
+    "f1-score": 0.99009900990099,
+    "support": 100,
+    "confused_with": {}
+  },
+  "job_hunting_info/id_2022102103539937": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 35,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276550": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 43,
+    "confused_with": {}
+  },
+  "job_hunting_info/id_2022102103539870": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022102103539931": {
+    "precision": 0.9565217391304348,
+    "recall": 1.0,
+    "f1-score": 0.9777777777777777,
+    "support": 22,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276198": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 23,
+    "confused_with": {}
+  },
+  "job_hunting_info/id_2022102103539864": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276546": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276594": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 32,
+    "confused_with": {}
+  },
+  "job_hunting_skill/id_2022102103539878": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 27,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276210": {
+    "precision": 0.9333333333333333,
+    "recall": 1.0,
+    "f1-score": 0.9655172413793104,
+    "support": 28,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539905": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 42,
+    "confused_with": {}
+  },
+  "career_laws/id_2022100903219476": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276548": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 44,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539909": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 30,
+    "confused_with": {}
+  },
+  "psychological_distress/id_2022101203277289": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 25,
+    "confused_with": {}
+  },
+  "psychological_distress/id_2022101203277303": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 70,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276203": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 25,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539872": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 26,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539848": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 17,
+    "confused_with": {}
+  },
+  "career_encyclopedia/id_2022101203276532": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539884": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276212": {
+    "precision": 0.96875,
+    "recall": 1.0,
+    "f1-score": 0.9841269841269841,
+    "support": 31,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276552": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 30,
+    "confused_with": {}
+  },
+  "psychological_distress/id_2022101203277254": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 23,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276208": {
+    "precision": 1.0,
+    "recall": 0.9629629629629629,
+    "f1-score": 0.9811320754716981,
+    "support": 27,
+    "confused_with": {
+      "career_laws/id_2022101203276212": 1
+    }
+  },
+  "direction_select/id_2022102103539956": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 14,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539903": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 29,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539954": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 19,
+    "confused_with": {}
+  },
+  "job_hunting_info/id_2022102103539917": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 22,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276230": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 26,
+    "confused_with": {}
+  },
+  "career_laws/id_2022101203276220": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 32,
+    "confused_with": {}
+  },
+  "job_hunting_skill/id_2022102103539840": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 14,
+    "confused_with": {}
+  },
+  "direction_select/id_2022101203276525": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7,
+    "confused_with": {}
+  },
+  "direction_select/id_2022102103539966": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5,
+    "confused_with": {}
+  },
+  "career_laws/id_2022102103539862": {
+    "precision": 0.972972972972973,
+    "recall": 1.0,
+    "f1-score": 0.9863013698630138,
+    "support": 36,
+    "confused_with": {}
+  },
+  "accuracy": 0.99488609948861,
+  "macro avg": {
+    "precision": 0.9937818352643085,
+    "recall": 0.9898256067720679,
+    "f1-score": 0.9910677979211236,
+    "support": 4302
+  },
+  "weighted avg": {
+    "precision": 0.9951867099931118,
+    "recall": 0.99488609948861,
+    "f1-score": 0.9947736407293242,
+    "support": 4302
+  }
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "text": "年假一般多久",
+    "intent_response_key_target": "career_laws/id_2022102103539968",
+    "intent_response_key_prediction": {
+      "name": "career_laws/id_2022102103539846",
+      "confidence": 0.6302500367164612
+    }
+  },
+  {
+    "text": "公务员怎么考",
+    "intent_response_key_target": "direction_select/id_2022102103539964",
+    "intent_response_key_prediction": {
+      "name": "direction_select/id_2022102103539913",
+      "confidence": 0.8573398590087891
+    }
+  },
+  {
+    "text": "公务员岗位怎么选",
+    "intent_response_key_target": "direction_select/id_2022102103539964",
+    "intent_response_key_prediction": {
+      "name": "career_laws/id_2022102103539882",
+      "confidence": 0.7758561968803406
+    }
+  },
+  {
+    "text": "我想考公",
+    "intent_response_key_target": "direction_select/id_2022102103539964",
+    "intent_response_key_prediction": {
+      "name": "direction_select/id_2022102103539913",
+      "confidence": 0.9039208292961121
+    }
+  },
+  {
+    "text": "office办公软件都有啥",
+    "intent_response_key_target": "career_encyclopedia/id_2022102103539952",
+    "intent_response_key_prediction": {
+      "name": "career_encyclopedia/id_2022102103539931",
+      "confidence": 0.5609895586967468
+    }
+  },
+  {
+    "text": "你的简历怎么写",
+    "intent_response_key_target": "job_hunting_skill/id_2022102103539929",
+    "intent_response_key_prediction": {
+      "name": "other_faq/id_2022101203277070",
+      "confidence": 0.8599756360054016
+    }
+  },
+  {
+    "text": "简历怎么可以写",
+    "intent_response_key_target": "job_hunting_skill/id_2022102103539929",
+    "intent_response_key_prediction": {
+      "name": "other_faq/id_2022101203277070",
+      "confidence": 0.747549831867218
+    }
+  },
+  {
+    "text": "笔试怎么准备",
+    "intent_response_key_target": "job_hunting_skill/id_2022102103539911",
+    "intent_response_key_prediction": {
+      "name": "job_hunting_skill/id_2022101203276972",
+      "confidence": 0.904758095741272
+    }
+  },
+  {
+    "text": "试用期一般多久",
+    "intent_response_key_target": "career_laws/id_2022102103539899",
+    "intent_response_key_prediction": {
+      "name": "career_laws/id_2022102103539945",
+      "confidence": 0.6875185370445251
+    }
+  },
+  {
+    "text": "试用期",
+    "intent_response_key_target": "career_laws/id_2022102103539899",
+    "intent_response_key_prediction": {
+      "name": "career_laws/id_2022102103539945",
+      "confidence": 0.5785172581672668
+    }
+  },
+  {
+    "text": "试用期是需要多久",
+    "intent_response_key_target": "career_laws/id_2022102103539899",
+    "intent_response_key_prediction": {
+      "name": "career_laws/id_2022102103539945",
+      "confidence": 0.5672756433486938
+    }
+  },
+  {
+    "text": "怎么笔试",
+    "intent_response_key_target": "job_hunting_skill/id_2022102103539856",
+    "intent_response_key_prediction": {
+      "name": "job_hunting_skill/id_2022101203276972",
+      "confidence": 0.8281852006912231
+    }
+  },
+  {
+    "text": "面试",
+    "intent_response_key_target": "job_hunting_skill/id_2022102103539850",
+    "intent_response_key_prediction": {
+      "name": "career_laws/id_2022102103539862",
+      "confidence": 0.37377455830574036
+    }
+  },
+  {
+    "text": "怎么写简历",
+    "intent_response_key_target": "other_faq/id_2022101203277070",
+    "intent_response_key_prediction": {
+      "name": "job_hunting_skill/id_2022102103539929",
+      "confidence": 0.9235837459564209
+    }
+  },
+  {
+    "text": "如何增长ppt能力",
+    "intent_response_key_target": "career_encyclopedia/id_2022101203276584",
+    "intent_response_key_prediction": {
+      "name": "career_encyclopedia/id_2022101203276566",
+      "confidence": 0.4898490011692047
+    }
+  },
+  {
+    "text": "思维导图有什么软件",
+    "intent_response_key_target": "career_encyclopedia/id_2022101203276576",
+    "intent_response_key_prediction": {
+      "name": "career_encyclopedia/id_2022101203276590",
+      "confidence": 0.5135462880134583
+    }
+  },
+  {
+    "text": "excle有什么用",
+    "intent_response_key_target": "career_encyclopedia/id_2022101203276560",
+    "intent_response_key_prediction": {
+      "name": "career_encyclopedia/id_2022101203276538",
+      "confidence": 0.9404303431510925
+    }
+  },
+  {
+    "text": "职场怎么提高写作能力",
+    "intent_response_key_target": "career_encyclopedia/id_2022101203276513",
+    "intent_response_key_prediction": {
+      "name": "career_encyclopedia/id_2022101203276601",
+      "confidence": 0.8942451477050781
+    }
+  },
+  {
+    "text": "生育伙食补贴具体内容",
+    "intent_response_key_target": "career_laws/id_2022101203276208",
+    "intent_response_key_prediction": {
+      "name": "career_laws/id_2022101203276212",
+      "confidence": 0.5804125666618347
+    }
+  },
+  {
+    "text": "住房公积金申请需要啥条件",
+    "intent_response_key_target": "career_laws/id_2022101203276200",
+    "intent_response_key_prediction": {
+      "name": "career_laws/id_2022101203276232",
+      "confidence": 0.48622915148735046
+    }
+  },
+  {
+    "text": "生育保险申领需要准备啥",
+    "intent_response_key_target": "career_laws/id_2022100903218545",
+    "intent_response_key_prediction": {
+      "name": "career_laws/id_2022101203276210",
+      "confidence": 0.7578384876251221
+    }
+  },
+  {
+    "text": "生育保险需要准备什么",
+    "intent_response_key_target": "career_laws/id_2022100903218545",
+    "intent_response_key_prediction": {
+      "name": "career_laws/id_2022101203276210",
+      "confidence": 0.6630634665489197
+    }
+  }
+]

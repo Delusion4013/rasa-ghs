@@ -1,0 +1,57 @@
+language: zh
+
+pipeline:
+# ###################
+# SpacyNLP相关配置
+# ###################
+# 预训练词向量
+- name: "SpacyNLP"
+  model: "zh_core_web_md"
+## 文本分词器
+- name: "SpacyTokenizer"
+  "token_pattern": None
+## 文本特征化
+- name: "SpacyEntityExtractor"
+## 特征提取器 将一句话变成一个向量
+- name: "SpacyFeaturizer"
+  pooling: mean
+
+# ############################
+# 其他feature和classifier相关配置
+# ############################
+# 创建用户信息和标签(意图和响应)的词袋表征 为意图分类和 response selection创建特征
+- name: CountVectorsFeaturizer
+  analyzer: "word"
+  min_ngram: 1
+  max_ngram: 1
+
+# 意图分类
+- name: DIETClassifier
+  epochs: 20  # 13个intents，第一轮90%+
+
+# 同义实体
+- name: EntitySynonymMapper
+- name: FallbackClassifier
+  threshold: 0.3
+# ############################
+# Response Selector相关配置
+#- intent: 617, training examples: 178
+
+- name: ResponseSelector
+  scale_loss: false
+  epochs: 25 # Spacy  17轮 86%，25min
+# ##################
+# policies 相关配置
+# ##################
+policies:
+- name: RulePolicy
+  core_fallback_threshold: 0.3
+  core_fallback_action_name: "action_default_fallback"
+  enable_fallback_prediction: False
+#- max_history: 2
+- name: "AugmentedMemoizationPolicy"
+  max_history: 2
+- name: TEDPolicy
+  epochs: 50 # 50 轮 78.8% 100 79%
+
+

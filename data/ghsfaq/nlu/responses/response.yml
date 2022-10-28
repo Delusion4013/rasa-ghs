@@ -1,0 +1,306 @@
+version: '2.0'
+responses:
+  utter_career_laws/id_2022102103539968:
+  - text: '"id_2022102103539968"'
+  utter_direction_select/id_2022102103539966:
+  - text: '"id_2022102103539966"'
+  utter_direction_select/id_2022102103539964:
+  - text: '"id_2022102103539964"'
+  utter_direction_select/id_2022102103539962:
+  - text: '"id_2022102103539962"'
+  utter_psychological_distress/id_2022102103539960:
+  - text: '"id_2022102103539960"'
+  utter_job_hunting_skill/id_2022102103539958:
+  - text: '"id_2022102103539958"'
+  utter_direction_select/id_2022102103539956:
+  - text: '"id_2022102103539956"'
+  utter_career_laws/id_2022102103539954:
+  - text: '"id_2022102103539954"'
+  utter_career_encyclopedia/id_2022102103539952:
+  - text: '"id_2022102103539952"'
+  utter_direction_select/id_2022102103539950:
+  - text: '"id_2022102103539950"'
+  utter_direction_select/id_2022102103539947:
+  - text: '"id_2022102103539947"'
+  utter_career_laws/id_2022102103539945:
+  - text: '"id_2022102103539945"'
+  utter_career_encyclopedia/id_2022102103539943:
+  - text: '"id_2022102103539943"'
+  utter_job_hunting_skill/id_2022102103539941:
+  - text: '"id_2022102103539941"'
+  utter_job_hunting_skill/id_2022102103539939:
+  - text: '"id_2022102103539939"'
+  utter_job_hunting_info/id_2022102103539937:
+  - text: '"id_2022102103539937"'
+  utter_job_hunting_info/id_2022102103539935:
+  - text: '"id_2022102103539935"'
+  utter_career_laws/id_2022102103539933:
+  - text: '"id_2022102103539933"'
+  utter_career_encyclopedia/id_2022102103539931:
+  - text: '"id_2022102103539931"'
+  utter_job_hunting_skill/id_2022102103539929:
+  - text: '"id_2022102103539929"'
+  utter_direction_select/id_2022102103539927:
+  - text: '"id_2022102103539927"'
+  utter_career_laws/id_2022102103539925:
+  - text: '"id_2022102103539925"'
+  utter_career_encyclopedia/id_2022102103539923:
+  - text: '"id_2022102103539923"'
+  utter_direction_select/id_2022102103539921:
+  - text: '"id_2022102103539921"'
+  utter_job_hunting_info/id_2022102103539919:
+  - text: '"id_2022102103539919"'
+  utter_job_hunting_info/id_2022102103539917:
+  - text: '"id_2022102103539917"'
+  utter_job_hunting_info/id_2022102103539915:
+  - text: '"id_2022102103539915"'
+  utter_direction_select/id_2022102103539913:
+  - text: '"id_2022102103539913"'
+  utter_job_hunting_skill/id_2022102103539911:
+  - text: '"id_2022102103539911"'
+  utter_direction_select/id_2022102103539909:
+  - text: '"id_2022102103539909"'
+  utter_career_laws/id_2022102103539907:
+  - text: '"id_2022102103539907"'
+  utter_direction_select/id_2022102103539905:
+  - text: '"id_2022102103539905"'
+  utter_career_laws/id_2022102103539903:
+  - text: '"id_2022102103539903"'
+  utter_career_encyclopedia/id_2022102103539901:
+  - text: '"id_2022102103539901"'
+  utter_career_laws/id_2022102103539899:
+  - text: '"id_2022102103539899"'
+  utter_career_encyclopedia/id_2022102103539897:
+  - text: '"id_2022102103539897"'
+  utter_psychological_distress/id_2022102103539895:
+  - text: '"id_2022102103539895"'
+  utter_direction_select/id_2022102103539893:
+  - text: '"id_2022102103539893"'
+  utter_psychological_distress/id_2022102103539891:
+  - text: '"id_2022102103539891"'
+  utter_career_laws/id_2022102103539888:
+  - text: '"id_2022102103539888"'
+  utter_job_hunting_skill/id_2022102103539886:
+  - text: '"id_2022102103539886"'
+  utter_career_laws/id_2022102103539884:
+  - text: '"id_2022102103539884"'
+  utter_career_laws/id_2022102103539882:
+  - text: '"id_2022102103539882"'
+  utter_direction_select/id_2022102103539880:
+  - text: '"id_2022102103539880"'
+  utter_job_hunting_skill/id_2022102103539878:
+  - text: '"id_2022102103539878"'
+  utter_job_hunting_info/id_2022102103539876:
+  - text: '"id_2022102103539876"'
+  utter_career_laws/id_2022102103539874:
+  - text: '"id_2022102103539874"'
+  utter_direction_select/id_2022102103539872:
+  - text: '"id_2022102103539872"'
+  utter_job_hunting_info/id_2022102103539870:
+  - text: '"id_2022102103539870"'
+  utter_career_laws/id_2022102103539868:
+  - text: '"id_2022102103539868"'
+  utter_career_laws/id_2022102103539866:
+  - text: '"id_2022102103539866"'
+  utter_job_hunting_info/id_2022102103539864:
+  - text: '"id_2022102103539864"'
+  utter_career_laws/id_2022102103539862:
+  - text: '"id_2022102103539862"'
+  utter_direction_select/id_2022102103539860:
+  - text: '"id_2022102103539860"'
+  utter_job_hunting_info/id_2022102103539858:
+  - text: '"id_2022102103539858"'
+  utter_job_hunting_skill/id_2022102103539856:
+  - text: '"id_2022102103539856"'
+  utter_direction_select/id_2022102103539854:
+  - text: '"id_2022102103539854"'
+  utter_job_hunting_info/id_2022102103539852:
+  - text: '"id_2022102103539852"'
+  utter_job_hunting_skill/id_2022102103539850:
+  - text: '"id_2022102103539850"'
+  utter_career_laws/id_2022102103539848:
+  - text: '"id_2022102103539848"'
+  utter_career_laws/id_2022102103539846:
+  - text: '"id_2022102103539846"'
+  utter_career_laws/id_2022102103539844:
+  - text: '"id_2022102103539844"'
+  utter_career_laws/id_2022102103539842:
+  - text: '"id_2022102103539842"'
+  utter_job_hunting_skill/id_2022102103539840:
+  - text: '"id_2022102103539840"'
+  utter_other_faq/id_2022101703413162:
+  - text: '"id_2022101703413162"'
+  utter_other_faq/id_2022101403347834:
+  - text: '"id_2022101403347834"'
+  utter_psychological_distress/id_2022101203277354:
+  - text: '"id_2022101203277354"'
+  utter_psychological_distress/id_2022101203277331:
+  - text: '"id_2022101203277331"'
+  utter_psychological_distress/id_2022101203277317:
+  - text: '"id_2022101203277317"'
+  utter_psychological_distress/id_2022101203277303:
+  - text: '"id_2022101203277303"'
+  utter_psychological_distress/id_2022101203277289:
+  - text: '"id_2022101203277289"'
+  utter_psychological_distress/id_2022101203277273:
+  - text: '"id_2022101203277273"'
+  utter_psychological_distress/id_2022101203277254:
+  - text: '"id_2022101203277254"'
+  utter_other_faq/id_2022101203277070:
+  - text: '"id_2022101203277070"'
+  utter_job_hunting_skill/id_2022101203276972:
+  - text: '"id_2022101203276972"'
+  utter_career_encyclopedia/id_2022101203276601:
+  - text: '"id_2022101203276601"'
+  utter_direction_select/id_2022101203276599:
+  - text: '"id_2022101203276599"'
+  utter_career_encyclopedia/id_2022101203276597:
+  - text: '"id_2022101203276597"'
+  utter_direction_select/id_2022101203276594:
+  - text: '"id_2022101203276594"'
+  utter_direction_select/id_2022101203276592:
+  - text: '"id_2022101203276592"'
+  utter_career_encyclopedia/id_2022101203276590:
+  - text: '"id_2022101203276590"'
+  utter_career_encyclopedia/id_2022101203276588:
+  - text: '"id_2022101203276588"'
+  utter_career_encyclopedia/id_2022101203276586:
+  - text: '"id_2022101203276586"'
+  utter_career_encyclopedia/id_2022101203276584:
+  - text: '"id_2022101203276584"'
+  utter_career_encyclopedia/id_2022101203276582:
+  - text: '"id_2022101203276582"'
+  utter_career_encyclopedia/id_2022101203276580:
+  - text: '"id_2022101203276580"'
+  utter_direction_select/id_2022101203276578:
+  - text: '"id_2022101203276578"'
+  utter_career_encyclopedia/id_2022101203276576:
+  - text: '"id_2022101203276576"'
+  utter_direction_select/id_2022101203276574:
+  - text: '"id_2022101203276574"'
+  utter_career_encyclopedia/id_2022101203276572:
+  - text: '"id_2022101203276572"'
+  utter_career_encyclopedia/id_2022101203276570:
+  - text: '"id_2022101203276570"'
+  utter_direction_select/id_2022101203276568:
+  - text: '"id_2022101203276568"'
+  utter_career_encyclopedia/id_2022101203276566:
+  - text: '"id_2022101203276566"'
+  utter_other_faq/id_2022101203276564:
+  - text: '"id_2022101203276564"'
+  utter_career_encyclopedia/id_2022101203276562:
+  - text: '"id_2022101203276562"'
+  utter_career_encyclopedia/id_2022101203276560:
+  - text: '"id_2022101203276560"'
+  utter_career_encyclopedia/id_2022101203276558:
+  - text: '"id_2022101203276558"'
+  utter_other_faq/id_2022101203276556:
+  - text: '"id_2022101203276556"'
+  utter_direction_select/id_2022101203276554:
+  - text: '"id_2022101203276554"'
+  utter_direction_select/id_2022101203276552:
+  - text: '"id_2022101203276552"'
+  utter_direction_select/id_2022101203276550:
+  - text: '"id_2022101203276550"'
+  utter_career_encyclopedia/id_2022101203276548:
+  - text: '"id_2022101203276548"'
+  utter_career_encyclopedia/id_2022101203276546:
+  - text: '"id_2022101203276546"'
+  utter_career_encyclopedia/id_2022101203276544:
+  - text: '"id_2022101203276544"'
+  utter_direction_select/id_2022101203276542:
+  - text: '"id_2022101203276542"'
+  utter_direction_select/id_2022101203276540:
+  - text: '"id_2022101203276540"'
+  utter_career_encyclopedia/id_2022101203276538:
+  - text: '"id_2022101203276538"'
+  utter_career_encyclopedia/id_2022101203276536:
+  - text: '"id_2022101203276536"'
+  utter_career_encyclopedia/id_2022101203276534:
+  - text: '"id_2022101203276534"'
+  utter_career_encyclopedia/id_2022101203276532:
+  - text: '"id_2022101203276532"'
+  utter_other_faq/id_2022101203276530:
+  - text: '"id_2022101203276530"'
+  utter_direction_select/id_2022101203276527:
+  - text: '"id_2022101203276527"'
+  utter_direction_select/id_2022101203276525:
+  - text: '"id_2022101203276525"'
+  utter_career_encyclopedia/id_2022101203276523:
+  - text: '"id_2022101203276523"'
+  utter_career_encyclopedia/id_2022101203276521:
+  - text: '"id_2022101203276521"'
+  utter_career_encyclopedia/id_2022101203276519:
+  - text: '"id_2022101203276519"'
+  utter_career_encyclopedia/id_2022101203276517:
+  - text: '"id_2022101203276517"'
+  utter_career_encyclopedia/id_2022101203276515:
+  - text: '"id_2022101203276515"'
+  utter_career_encyclopedia/id_2022101203276513:
+  - text: '"id_2022101203276513"'
+  utter_direction_select/id_2022101203276511:
+  - text: '"id_2022101203276511"'
+  utter_direction_select/id_2022101203276509:
+  - text: '"id_2022101203276509"'
+  utter_direction_select/id_2022101203276507:
+  - text: '"id_2022101203276507"'
+  utter_career_encyclopedia/id_2022101203276505:
+  - text: '"id_2022101203276505"'
+  utter_career_encyclopedia/id_2022101203276503:
+  - text: '"id_2022101203276503"'
+  utter_career_encyclopedia/id_2022101203276501:
+  - text: '"id_2022101203276501"'
+  utter_career_laws/id_2022101203276247:
+  - text: '"id_2022101203276247"'
+  utter_career_laws/id_2022101203276245:
+  - text: '"id_2022101203276245"'
+  utter_career_laws/id_2022101203276243:
+  - text: '"id_2022101203276243"'
+  utter_career_laws/id_2022101203276241:
+  - text: '"id_2022101203276241"'
+  utter_career_laws/id_2022101203276239:
+  - text: '"id_2022101203276239"'
+  utter_career_laws/id_2022101203276237:
+  - text: '"id_2022101203276237"'
+  utter_career_laws/id_2022101203276235:
+  - text: '"id_2022101203276235"'
+  utter_career_laws/id_2022101203276232:
+  - text: '"id_2022101203276232"'
+  utter_career_laws/id_2022101203276230:
+  - text: '"id_2022101203276230"'
+  utter_career_laws/id_2022101203276228:
+  - text: '"id_2022101203276228"'
+  utter_career_laws/id_2022101203276226:
+  - text: '"id_2022101203276226"'
+  utter_career_laws/id_2022101203276224:
+  - text: '"id_2022101203276224"'
+  utter_career_laws/id_2022101203276222:
+  - text: '"id_2022101203276222"'
+  utter_career_laws/id_2022101203276220:
+  - text: '"id_2022101203276220"'
+  utter_career_laws/id_2022101203276218:
+  - text: '"id_2022101203276218"'
+  utter_career_laws/id_2022101203276216:
+  - text: '"id_2022101203276216"'
+  utter_career_laws/id_2022101203276214:
+  - text: '"id_2022101203276214"'
+  utter_career_laws/id_2022101203276212:
+  - text: '"id_2022101203276212"'
+  utter_career_laws/id_2022101203276210:
+  - text: '"id_2022101203276210"'
+  utter_career_laws/id_2022101203276208:
+  - text: '"id_2022101203276208"'
+  utter_career_laws/id_2022101203276206:
+  - text: '"id_2022101203276206"'
+  utter_career_laws/id_2022101203276203:
+  - text: '"id_2022101203276203"'
+  utter_career_laws/id_2022101203276200:
+  - text: '"id_2022101203276200"'
+  utter_career_laws/id_2022101203276198:
+  - text: '"id_2022101203276198"'
+  utter_career_laws/id_2022100903219476:
+  - text: '"id_2022100903219476"'
+  utter_career_laws/id_2022100903219460:
+  - text: '"id_2022100903219460"'
+  utter_career_laws/id_2022100903218545:
+  - text: '"id_2022100903218545"'

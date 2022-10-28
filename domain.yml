@@ -1,0 +1,32 @@
+version: '2.0'
+config:
+  store_entities_as_slots: true
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+intents:
+- direction_select
+- job_hunting_info
+- job_hunting_skill
+- career_encyclopedia
+- career_laws
+- psychological_distress
+- other_faq
+
+
+entities: []
+slots: {}
+responses:
+  utter_default:
+  - text: '"id_2022101903480505"'
+actions: 
+  - utter_direction_select
+  - utter_job_hunting_info
+  - utter_job_hunting_skill
+  - utter_career_encyclopedia
+  - utter_career_laws
+  - utter_psychological_distress
+  - utter_other_faq
+forms: {}
+e2e_actions: []

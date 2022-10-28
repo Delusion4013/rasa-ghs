@@ -1,0 +1,68 @@
+{
+  "direction_select": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1106,
+    "confused_with": {}
+  },
+  "job_hunting_skill": {
+    "precision": 0.9945504087193461,
+    "recall": 1.0,
+    "f1-score": 0.9972677595628415,
+    "support": 365,
+    "confused_with": {}
+  },
+  "job_hunting_info": {
+    "precision": 0.9959677419354839,
+    "recall": 1.0,
+    "f1-score": 0.997979797979798,
+    "support": 247,
+    "confused_with": {}
+  },
+  "career_laws": {
+    "precision": 1.0,
+    "recall": 0.9990196078431373,
+    "f1-score": 0.9995095635115253,
+    "support": 1020,
+    "confused_with": {
+      "job_hunting_info": 1
+    }
+  },
+  "other_faq": {
+    "precision": 1.0,
+    "recall": 0.990990990990991,
+    "f1-score": 0.9954751131221719,
+    "support": 222,
+    "confused_with": {
+      "job_hunting_skill": 2
+    }
+  },
+  "career_encyclopedia": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 964,
+    "confused_with": {}
+  },
+  "psychological_distress": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 378,
+    "confused_with": {}
+  },
+  "accuracy": 0.999302649930265,
+  "macro avg": {
+    "precision": 0.9986454500935472,
+    "recall": 0.9985729426905897,
+    "f1-score": 0.9986046048823338,
+    "support": 4302
+  },
+  "weighted avg": {
+    "precision": 0.9993061207439856,
+    "recall": 0.999302649930265,
+    "f1-score": 0.9993024110265749,
+    "support": 4302
+  }
+}

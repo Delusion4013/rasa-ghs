@@ -1,0 +1,30 @@
+version: "2.0"
+rules:
+  - rule: respond to direction select
+    steps:
+      - intent: direction_select
+      - action: utter_direction_select
+  - rule: respond to job hunting info
+    steps:
+      - intent: job_hunting_info
+      - action: utter_job_hunting_info
+  - rule: respond to job hunting skill
+    steps:
+      - intent: job_hunting_skill
+      - action: utter_job_hunting_skill
+  - rule: respond to career encyclopedia
+    steps:
+      - intent: career_encyclopedia
+      - action: utter_career_encyclopedia
+  - rule: respond to career laws
+    steps:
+      - intent: career_laws
+      - action: utter_career_laws
+  - rule: respond to psychological distress
+    steps:
+      - intent: psychological_distress
+      - action: utter_psychological_distress
+  - rule: respond to other faq
+    steps:
+      - intent: other_faq
+      - action: utter_other_faq
