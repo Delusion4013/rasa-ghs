@@ -1,4 +1,4 @@
-version: '2.0'
+version: '3.0'
 responses:
   utter_career_laws/id_2022102103539968:
   - text: '"id_2022102103539968"'
