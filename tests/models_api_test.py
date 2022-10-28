@@ -40,7 +40,7 @@ def rasa_model(data):
     dicts4 = pd.concat((dicts, dicts1), axis=1)
     dicts5 = pd.concat((dicts4, dicts2), axis=1)
     dicts6 = pd.concat((dicts5, dicts3), axis=1)
-    dicts6.to_excel("模型测试结果.xlsx", index=None, header=["question", "rasa_answer_id", "预测分值", "响应时间"])
+    dicts6.to_excel("results.xlsx", index=None, header=["question", "rasa_answer_id", "预测分值", "响应时间"])
 
 def concat_and_evaluate(test_pred, test_true):
     res = pd.concat((test_pred, test_true), axis=1)
@@ -76,13 +76,13 @@ def test_event_model(data):
     dicts3 = pd.concat((dicts, dicts1), axis=1)
     dicts4 = pd.concat((dicts3, dicts2), axis=1)
     dicts4.to_excel("事件模型测试结果.xlsx", index=None, header=["query", "answer_id", "times"])
-
+    # return dicts4
 
 if __name__ == '__main__':
-    test_file = "测试样本.xlsx"
+    test_file = "test.xlsx"
     test_data = pd.read_excel(test_file)
     rasa_model(test_data)
-    test_pred = pd.read_excel("模型测试结果.xlsx")
+    test_pred = pd.read_excel("results.xlsx")
     concat_and_evaluate(test_pred, test_data)
 
 # data=pd.read_excel("模型测试结果.xlsx")
