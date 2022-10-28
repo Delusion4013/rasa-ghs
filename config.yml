@@ -27,7 +27,7 @@ pipeline:
 
 # 意图分类
 - name: DIETClassifier
-  epochs: 20  # 13个intents，第一轮90%+
+  epochs: 3  # 13个intents，第一轮90%+
 
 # 同义实体
 - name: EntitySynonymMapper
@@ -39,7 +39,7 @@ pipeline:
 
 - name: ResponseSelector
   scale_loss: false
-  epochs: 25 # Spacy  17轮 86%，25min
+  epochs: 3 # Spacy  17轮 86%，25min
 # ##################
 # policies 相关配置
 # ##################

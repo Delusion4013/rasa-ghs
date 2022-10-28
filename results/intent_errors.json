@@ -1,26 +1,10 @@
 [
   {
-    "text": "offer",
-    "intent": "career_laws",
-    "intent_prediction": {
-      "name": "job_hunting_info",
-      "confidence": 0.45384448766708374
-    }
-  },
-  {
     "text": "怎么写简历",
     "intent": "other_faq",
     "intent_prediction": {
       "name": "job_hunting_skill",
-      "confidence": 0.9978612065315247
-    }
-  },
-  {
-    "text": "不知道怎么写简历",
-    "intent": "other_faq",
-    "intent_prediction": {
-      "name": "job_hunting_skill",
-      "confidence": 0.6418297290802002
+      "confidence": 0.9983123540878296
     }
   }
 ]
