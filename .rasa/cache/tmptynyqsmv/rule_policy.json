@@ -1,0 +1,42 @@
+{
+  "lookup": {
+    "rules": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"job_hunting_info\"}}]": "utter_job_hunting_info",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"job_hunting_info\"}}, {\"prev_action\": {\"action_name\": \"utter_job_hunting_info\"}, \"user\": {\"intent\": \"job_hunting_info\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"career_encyclopedia\"}}]": "utter_career_encyclopedia",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"career_encyclopedia\"}}, {\"prev_action\": {\"action_name\": \"utter_career_encyclopedia\"}, \"user\": {\"intent\": \"career_encyclopedia\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"career_laws\"}}]": "utter_career_laws",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"career_laws\"}}, {\"prev_action\": {\"action_name\": \"utter_career_laws\"}, \"user\": {\"intent\": \"career_laws\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"job_hunting_skill\"}}]": "utter_job_hunting_skill",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"job_hunting_skill\"}}, {\"prev_action\": {\"action_name\": \"utter_job_hunting_skill\"}, \"user\": {\"intent\": \"job_hunting_skill\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"other_faq\"}}]": "utter_other_faq",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"other_faq\"}}, {\"prev_action\": {\"action_name\": \"utter_other_faq\"}, \"user\": {\"intent\": \"other_faq\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"direction_select\"}}]": "utter_direction_select",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"direction_select\"}}, {\"prev_action\": {\"action_name\": \"utter_direction_select\"}, \"user\": {\"intent\": \"direction_select\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"psychological_distress\"}}]": "utter_psychological_distress",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"psychological_distress\"}}, {\"prev_action\": {\"action_name\": \"utter_psychological_distress\"}, \"user\": {\"intent\": \"psychological_distress\"}}]": "action_listen"
+    },
+    "rule_only_slots": [],
+    "rule_only_loops": [],
+    "rules_for_loop_unhappy_path": {},
+    "rules_not_in_stories": [
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"job_hunting_skill\"}}, {\"prev_action\": {\"action_name\": \"utter_job_hunting_skill\"}, \"user\": {\"intent\": \"job_hunting_skill\"}}]",
+      "predicting default action with intent back",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"career_encyclopedia\"}}, {\"prev_action\": {\"action_name\": \"utter_career_encyclopedia\"}, \"user\": {\"intent\": \"career_encyclopedia\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"direction_select\"}}, {\"prev_action\": {\"action_name\": \"utter_direction_select\"}, \"user\": {\"intent\": \"direction_select\"}}]",
+      "predicting default action with intent restart",
+      "predicting default action with intent session_start",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"other_faq\"}}, {\"prev_action\": {\"action_name\": \"utter_other_faq\"}, \"user\": {\"intent\": \"other_faq\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"job_hunting_info\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"other_faq\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"direction_select\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"job_hunting_info\"}}, {\"prev_action\": {\"action_name\": \"utter_job_hunting_info\"}, \"user\": {\"intent\": \"job_hunting_info\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"psychological_distress\"}}, {\"prev_action\": {\"action_name\": \"utter_psychological_distress\"}, \"user\": {\"intent\": \"psychological_distress\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"career_laws\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"career_laws\"}}, {\"prev_action\": {\"action_name\": \"utter_career_laws\"}, \"user\": {\"intent\": \"career_laws\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"career_encyclopedia\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"psychological_distress\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"job_hunting_skill\"}}]"
+    ]
+  }
+}

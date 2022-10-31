@@ -6,7 +6,7 @@ pipeline:
 # ###################
 # 预训练词向量
 - name: "SpacyNLP"
-  model: "zh_core_web_md"
+  model: "zh_core_web_lg"
 ## 文本分词器
 - name: "SpacyTokenizer"
   "token_pattern": None
@@ -27,19 +27,19 @@ pipeline:
 
 # 意图分类
 - name: DIETClassifier
-  epochs: 3  # 13个intents，第一轮90%+
+  epochs: 30  # 13个intents，第一轮90%+
 
 # 同义实体
 - name: EntitySynonymMapper
 - name: FallbackClassifier
-  threshold: 0.3
+  threshold: 0.2
 # ############################
 # Response Selector相关配置
 #- intent: 617, training examples: 178
 
 - name: ResponseSelector
   scale_loss: false
-  epochs: 3 # Spacy  17轮 86%，25min
+  epochs: 100 
 # ##################
 # policies 相关配置
 # ##################
@@ -48,7 +48,6 @@ policies:
   core_fallback_threshold: 0.3
   core_fallback_action_name: "action_default_fallback"
   enable_fallback_prediction: False
-#- max_history: 2
 - name: "AugmentedMemoizationPolicy"
   max_history: 2
 - name: TEDPolicy

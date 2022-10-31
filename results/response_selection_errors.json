@@ -4,7 +4,7 @@
     "intent_response_key_target": "direction_select/id_2022102103539964",
     "intent_response_key_prediction": {
       "name": "career_laws/id_2022102103539882",
-      "confidence": 0.7179590463638306
+      "confidence": 0.5243260264396667
     }
   },
   {
@@ -12,47 +12,15 @@
     "intent_response_key_target": "direction_select/id_2022102103539964",
     "intent_response_key_prediction": {
       "name": "direction_select/id_2022102103539913",
-      "confidence": 0.41946685314178467
+      "confidence": 0.5166888236999512
     }
   },
   {
-    "text": "笔试怎么准备",
-    "intent_response_key_target": "job_hunting_skill/id_2022102103539911",
+    "text": "考公咋学习",
+    "intent_response_key_target": "direction_select/id_2022102103539927",
     "intent_response_key_prediction": {
-      "name": "job_hunting_skill/id_2022101203276972",
-      "confidence": 0.8639957308769226
-    }
-  },
-  {
-    "text": "加班费一般多少",
-    "intent_response_key_target": "career_laws/id_2022102103539888",
-    "intent_response_key_prediction": {
-      "name": "career_laws/id_2022102103539846",
-      "confidence": 0.62673020362854
-    }
-  },
-  {
-    "text": "offer",
-    "intent_response_key_target": "career_laws/id_2022102103539862",
-    "intent_response_key_prediction": {
-      "name": "job_hunting_info/id_2022102103539876",
-      "confidence": 0.4478636384010315
-    }
-  },
-  {
-    "text": "怎么笔试",
-    "intent_response_key_target": "job_hunting_skill/id_2022102103539856",
-    "intent_response_key_prediction": {
-      "name": "job_hunting_skill/id_2022101203276972",
-      "confidence": 0.4918007552623749
-    }
-  },
-  {
-    "text": "找不到工作",
-    "intent_response_key_target": "psychological_distress/id_2022101203277354",
-    "intent_response_key_prediction": {
-      "name": "other_faq/id_2022101203276564",
-      "confidence": 0.6326871514320374
+      "name": "direction_select/id_2022102103539905",
+      "confidence": 0.9401530027389526
     }
   },
   {
@@ -60,39 +28,15 @@
     "intent_response_key_target": "other_faq/id_2022101203277070",
     "intent_response_key_prediction": {
       "name": "job_hunting_skill/id_2022102103539929",
-      "confidence": 0.9615103602409363
+      "confidence": 0.9906123280525208
     }
   },
   {
-    "text": "思维导图有什么软件",
-    "intent_response_key_target": "career_encyclopedia/id_2022101203276576",
+    "text": "怎么笔试",
+    "intent_response_key_target": "job_hunting_skill/id_2022101203276972",
     "intent_response_key_prediction": {
-      "name": "career_encyclopedia/id_2022101203276590",
-      "confidence": 0.6273209452629089
-    }
-  },
-  {
-    "text": "excle有什么用",
-    "intent_response_key_target": "career_encyclopedia/id_2022101203276560",
-    "intent_response_key_prediction": {
-      "name": "career_encyclopedia/id_2022101203276538",
-      "confidence": 0.569672703742981
-    }
-  },
-  {
-    "text": "读研的意义在哪",
-    "intent_response_key_target": "direction_select/id_2022101203276554",
-    "intent_response_key_prediction": {
-      "name": "other_faq/id_2022101203276530",
-      "confidence": 0.432339608669281
-    }
-  },
-  {
-    "text": "职场上如何提升沟通能力",
-    "intent_response_key_target": "career_encyclopedia/id_2022101203276548",
-    "intent_response_key_prediction": {
-      "name": "career_encyclopedia/id_2022101203276601",
-      "confidence": 0.6011504530906677
+      "name": "job_hunting_skill/id_2022102103539856",
+      "confidence": 0.9556611180305481
     }
   },
   {
@@ -100,31 +44,7 @@
     "intent_response_key_target": "career_encyclopedia/id_2022101203276544",
     "intent_response_key_prediction": {
       "name": "direction_select/id_2022102103539909",
-      "confidence": 0.4483625888824463
-    }
-  },
-  {
-    "text": "在哪里学习excle",
-    "intent_response_key_target": "career_encyclopedia/id_2022101203276515",
-    "intent_response_key_prediction": {
-      "name": "career_encyclopedia/id_2022101203276586",
-      "confidence": 0.5325949788093567
-    }
-  },
-  {
-    "text": "职场怎么提高写作能力",
-    "intent_response_key_target": "career_encyclopedia/id_2022101203276513",
-    "intent_response_key_prediction": {
-      "name": "career_encyclopedia/id_2022101203276601",
-      "confidence": 0.7547245025634766
-    }
-  },
-  {
-    "text": "图文文字排版注意哪些点",
-    "intent_response_key_target": "career_encyclopedia/id_2022101203276501",
-    "intent_response_key_prediction": {
-      "name": "career_encyclopedia/id_2022101203276503",
-      "confidence": 0.4903274476528168
+      "confidence": 0.8004079461097717
     }
   }
 ]

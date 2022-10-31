@@ -8,34 +8,6 @@
       "job_hunting_skill": 1
     }
   },
-  "psychological_distress": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 378,
-    "confused_with": {}
-  },
-  "job_hunting_skill": {
-    "precision": 0.9972677595628415,
-    "recall": 1.0,
-    "f1-score": 0.9986320109439125,
-    "support": 365,
-    "confused_with": {}
-  },
-  "career_encyclopedia": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 964,
-    "confused_with": {}
-  },
-  "career_laws": {
-    "precision": 1.0,
-    "recall": 1.0,
-    "f1-score": 1.0,
-    "support": 1020,
-    "confused_with": {}
-  },
   "job_hunting_info": {
     "precision": 1.0,
     "recall": 1.0,
@@ -47,20 +19,54 @@
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 1106,
+    "support": 1105,
     "confused_with": {}
   },
-  "accuracy": 0.999767549976755,
+  "career_encyclopedia": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 964,
+    "confused_with": {}
+  },
+  "job_hunting_skill": {
+    "precision": 0.9972677595628415,
+    "recall": 1.0,
+    "f1-score": 0.9986320109439125,
+    "support": 365,
+    "confused_with": {}
+  },
+  "career_laws": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1020,
+    "confused_with": {}
+  },
+  "psychological_distress": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 378,
+    "confused_with": {}
+  },
+  "accuracy": 0.9997674959311788,
   "macro avg": {
     "precision": 0.9996096799375488,
     "recall": 0.9993564993564993,
-    "f1-score": 0.9994820963715425,
-    "support": 4302
+    "f1-score": 0.9994820963715424,
+    "support": 4301
   },
   "weighted avg": {
-    "precision": 0.999768185086108,
-    "recall": 0.999767549976755,
-    "f1-score": 0.9997674466123562,
-    "support": 4302
+    "precision": 0.9997681311881973,
+    "recall": 0.9997674959311788,
+    "f1-score": 0.9997673925427473,
+    "support": 4301
+  },
+  "micro avg": {
+    "precision": 0.9997674959311788,
+    "recall": 0.9997674959311788,
+    "f1-score": 0.9997674959311788,
+    "support": 4301
   }
 }

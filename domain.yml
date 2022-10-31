@@ -1,4 +1,4 @@
-version: '3.0'
+version: '3.1'
 config:
   store_entities_as_slots: true
 session_config:
@@ -20,13 +20,13 @@ slots: {}
 responses:
   utter_default:
   - text: '"id_2022101903480505"'
-actions: 
-  - utter_direction_select
-  - utter_job_hunting_info
-  - utter_job_hunting_skill
-  - utter_career_encyclopedia
-  - utter_career_laws
-  - utter_psychological_distress
-  - utter_other_faq
+actions: [] 
+#  - utter_direction_select
+#  - utter_job_hunting_info
+#  - utter_job_hunting_skill
+#  - utter_career_encyclopedia
+#  - utter_career_laws
+#  - utter_psychological_distress
+#  - utter_other_faq
 forms: {}
 e2e_actions: []
